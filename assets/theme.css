@@ -956,8 +956,8 @@ body,
 }
 
 .scroller-kQBbkU {
-  margin-bottom: -8px;
-  padding-bottom: 8px;
+  margin-bottom: 22px;
+  padding-bottom: 0px;
 }
 
 .newMessagesBar-1hF-9G {
@@ -3878,4 +3878,7 @@ div[role=radiogroup] {
 }
 .themedBackground-3uF0xW{
   background-color: #161516 !important;
+}
+.container-2NLBJg{
+  background-color: #000000 !important;
 }
