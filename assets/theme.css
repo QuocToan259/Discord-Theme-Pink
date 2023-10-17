@@ -3685,7 +3685,7 @@ div[role=radiogroup] {
   background: transparent;
 }
 ::-webkit-scrollbar-track {
-  background: #fff !important;
+  background: #1b1b1b !important;
   border-radius: 0 !important;
 }
 ::-webkit-scrollbar-track-piece {
