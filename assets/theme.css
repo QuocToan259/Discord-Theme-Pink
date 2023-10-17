@@ -1,7 +1,7 @@
 :root {
   --main-color: #090909;
   --title-bar: #212121;
-  --bar-color: #181818;
+  --bar-color: #000000;
   --bar-border-color: #282828;
   --bar-size: 89px;
   --accent-rgb: 231,100,153;
@@ -1163,7 +1163,7 @@ body,
 .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h {
   max-height: 45vh;
   background-color: #000000;
-  border-radius: 22px;
+  border-radius: 50px;
   --scrollbar-thumb: rgba(0,0,0,0.5);
   --scrollbar-thumb-hover: rgba(0,0,0,0.6);
   --scrollbar-thumb-active: rgba(0,0,0,0.7);
@@ -3863,4 +3863,15 @@ div[role=radiogroup] {
 }
 .theme-dark .container-1CH86i{
 	background-color: #000;
+}
+
+.members-2y1nVj, .membersListNotices-3yhEwx {
+  z-index: 2;
+}
+
+.members-2y1nVj{
+  background-color: #000000;
+}
+.scrollerInner-2PPAp2 {
+  background-color: #000000;
 }
