@@ -3681,11 +3681,11 @@ div[role=radiogroup] {
  *
  */
 ::-webkit-scrollbar {
-  width: 12px !important;
+  width: 4px !important;
   background: transparent;
 }
 ::-webkit-scrollbar-track {
-  background: rgba(0, 0, 0, 0) !important;
+  background: #fff !important;
   border-radius: 0 !important;
 }
 ::-webkit-scrollbar-track-piece {
@@ -3696,7 +3696,7 @@ div[role=radiogroup] {
 }
 ::-webkit-scrollbar-thumb {
   display: initial;
-  background-color: var(--scrollbar-thumb) !important;
+  background-color: #ff8888 !important;
   border: 0 solid transparent !important;
   border-radius: 0 !important;
 }
