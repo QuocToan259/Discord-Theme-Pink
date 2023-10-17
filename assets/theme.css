@@ -362,7 +362,7 @@ body,
 
 .wrapper-1_HaEi {
   margin-bottom: var(--bar-size);
-  background-color: var(--server-list);
+  background-color: #000;
 }
 .wrapper-1_HaEi .scroller-3X7KbA {
   background-color: transparent;
@@ -3860,4 +3860,7 @@ div[role=radiogroup] {
 
 .container-1CH86i{
   height: 89px;
+}
+.theme-dark .container-1CH86i{
+	background-color: #000;
 }
