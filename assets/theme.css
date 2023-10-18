@@ -29,7 +29,7 @@
   --input-color: #e0e0e0;
   --input-text-color: #333;
   --input-placeholder-color: #444;
-  --input-radius: 22px;
+  --input-radius: 16px;
   --select-input-color: #363636;
   --button-background: rgba(0,0,0,0.7);
   --button-border: 1px solid #b2b2b2;
@@ -1129,6 +1129,9 @@ body,
 .channelTextArea-220_Gz {
   border-radius: var(--input-radius);
 }
+..scrollableContainer-15eg7h{
+  border-radius: 16px;
+}
 .channelTextArea-220_Gz .scrollableContainer-15eg7h {
   max-height: 45vh;
   background-color: var(--input-color);
@@ -1651,7 +1654,7 @@ body,
 
 .container-1SX9VC {
   height: 32px;
-  padding: 0 4px 0 12px;
+  padding: 0 12px;
   background-color: var(--input-color);
   border-radius: var(--input-radius);
   border: none;
@@ -1661,6 +1664,7 @@ body,
 }
 .container-1SX9VC .inner-1NoIT5 {
   padding: 0;
+  overflow: hidden !important;
 }
 .container-1SX9VC .input-2FSSDe {
   height: 100%;
