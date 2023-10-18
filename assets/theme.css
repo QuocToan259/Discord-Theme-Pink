@@ -3885,4 +3885,5 @@ div[role=radiogroup] {
 .theme-dark.layer-2BGhQ8{
   overflow: hidden scroll;
   max-height: 100vh;
+  top: 0 !important;
 }
