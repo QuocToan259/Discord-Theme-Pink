@@ -3886,7 +3886,6 @@ div[role=radiogroup] {
   overflow: hidden;
   max-height: 100vh;
   width: 380px;
-  top: 0 !important;
 }
 .scroller-15bIdk.thin-RnSY0a.scrollerBase-1Pkza4{
   overflow: hidden !important;
@@ -3911,4 +3910,7 @@ div[role=radiogroup] {
   left: 44.7%;
   width: 500px;
   top: 26% !important;
+}
+.layerContainer-2lfOPe .theme-dark.layer-2BGhQ8{
+  top: 0 !important;
 }
