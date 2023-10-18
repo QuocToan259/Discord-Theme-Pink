@@ -3894,6 +3894,10 @@ div[role=radiogroup] {
 .root-8LYsGj.root-1CAIjD.small-2xUY-3.fullscreenOnMobile-2971EC.rootWithShadow-2hdL2J {
   overflow: hidden scroll !important;
 }
+
+.userPopoutOuter-1OHwPL {
+  margin-left: 40px;
+}
 .userProfileOuterThemed-2BgJCM.userPopoutOuter-1OHwPL, .userProfileOuterThemed-2BgJCM.userProfileOuter-2tQwNf{
   margin-right: -53px;
   margin-left: 32px;
