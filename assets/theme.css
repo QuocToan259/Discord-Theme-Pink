@@ -3913,3 +3913,6 @@ div[role=radiogroup] {
 .layerContainer-2lfOPe .theme-dark.layer-2BGhQ8{
   /* top: 1px !important; */
 }
+.scroller-nxCRu_{
+  overflow: hidden !important;
+}
