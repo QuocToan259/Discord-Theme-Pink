@@ -1272,7 +1272,7 @@ body,
   color: var(--input-text-color);
 }
 .attachedBars-2BCP3l + .scrollableContainer-15eg7h {
-  border-radius: 0 0 22px 22px !important;
+  /* border-radius: 0 0 22px 22px !important; */
 }
 .attachedBars-2BCP3l .name-1DypRz,
 .attachedBars-2BCP3l .description-39ogHl {
@@ -3929,4 +3929,14 @@ div[role=radiogroup] {
 }
 .sansAttachButton-1ERHue{
   padding: 0 16px;
+}
+.wordmarkWindows-1rsity {
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 2px 9px 3px;
+  color: #ffffff;
+}
+
+.scrollableContainer-15eg7h .themedBackground-3uF0xW .webkit-QgSAqd {
+  border-radius: 0 !important;
 }
