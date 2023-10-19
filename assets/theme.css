@@ -3923,3 +3923,9 @@ div[role=radiogroup] {
 .theme-dark .form-3qe0Ni:before{
   background-color: transparent;
 }
+.scrollableContainer-15eg7h{
+  overflow-y: hidden;
+}
+.sansAttachButton-1ERHue{
+  padding: 0 16px;
+}
