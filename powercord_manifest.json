@@ -1,8 +1,8 @@
 {
-    "name": "Spotify-Discord",
-    "description": "Combine Discord and Spotify into one",
+    "name": "Discord-Theme-Pink",
+    "description": "Make discord look better",
     "version": "1.4.2",
-    "author": "CapnKitten",
+    "author": "Shaki",
     "theme": "Spotify-Discord.theme.css",
     "license": "MIT"
 }
