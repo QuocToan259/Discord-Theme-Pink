@@ -3882,7 +3882,7 @@ div[role=radiogroup] {
   background-color: #000000 !important;
 }
 .theme-dark.layer-2BGhQ8{
-  overflow: hidden !important;
+  /* overflow: hidden !important; */
   max-height: 100vh;
   width: 390px;
   /* top: 0px; */
