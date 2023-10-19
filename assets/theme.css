@@ -1507,7 +1507,7 @@ body,
 }
 
 .channelTextArea-1VQBuV {
-  background-color: var(--input-color);
+  background-color: #000000;
   border-radius: var(--input-radius);
   z-index: 2;
 }
@@ -3926,6 +3926,7 @@ div[role=radiogroup] {
 }
 .scrollableContainer-15eg7h{
   overflow-y: hidden;
+  border-radius: 0 !important;
 }
 .sansAttachButton-1ERHue{
   padding: 0 16px;
@@ -3935,8 +3936,4 @@ div[role=radiogroup] {
   transform: translateX(-50%);
   padding: 2px 9px 3px;
   color: #ffffff;
-}
-
-.scrollableContainer-15eg7h .themedBackground-3uF0xW .webkit-QgSAqd {
-  border-radius: 0 !important;
 }
