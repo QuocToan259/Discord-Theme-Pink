@@ -1381,7 +1381,7 @@ body,
 .container-3XgAHv .form-Ti9oXE .channelTextArea-3TZH74 .scrollableContainer-15eg7h {
   max-height: 45vh;
   background-color: var(--input-color);
-  border-radius: 22px;
+  border-radius: o !important;
   border: none;
   --scrollbar-thumb: rgba(0,0,0,0.5);
   --scrollbar-thumb-hover: rgba(0,0,0,0.6);
