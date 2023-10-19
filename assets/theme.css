@@ -1259,7 +1259,7 @@ body,
 /* CHAT AREA -> TEXTBOX -> REPLY */
 .attachedBars-2BCP3l {
   background-image: linear-gradient(to right, #7b072d, #5b175d, #090846);
-  border-radius: var(--input-radius) var(--input-radius) 0 0;
+  border-radius: 20px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
 .attachedBars-2BCP3l .replyBar-1oi75v {
