@@ -1,4 +1,4 @@
-# Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url] [![Download][download-logo]][download-url] 
+# Spotify Discord Theme
 ## This is the edited CapnKitten project. If you can please support the project owner
 #### Combine Discord and Spotify into one
 <hr>
@@ -15,14 +15,10 @@ Import theme in vencord: ```https://raw.githubusercontent.com/QuocToan259/Discor
 
 <hr>
 
-[paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
-[paypal-url]: https://paypal.me/capnkitten
-
-[github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
-[github-url]: https://github.com/sponsors/CapnKitten
-
-[download-logo]: https://img.shields.io/static/v1?label=Download&message=Theme&style=flat&color=blue
-[download-url]: https://betterdiscord.app/theme/Spotify%20Discord
-
-[discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
-[discord-url]: https://discord.gg/jzJkA6Z
+## Change the logo discord
+Go to setting vencord's in your discord -> Click ```Open QuickCSS File```
+Paste this:  <br>
+```
+.tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub:before{
+    background-image: url('<link_your_image');
+}```
