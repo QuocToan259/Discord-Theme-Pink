@@ -1,12 +1,5 @@
 # Spotify Discord Theme
-## This is the edited CapnKitten project. If you can please support the project owner
-#### Combine Discord and Spotify into one
-<hr>
-
-Current version: v1.4.2 (26/02/2021)
-
-<hr>
-
+### This is the edited CapnKitten project. If you can please support the project owner
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord/
 
 ## How to use?
