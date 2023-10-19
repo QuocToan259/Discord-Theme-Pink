@@ -29,7 +29,7 @@
   --input-color: #e0e0e0;
   --input-text-color: #333;
   --input-placeholder-color: #444;
-  --input-radius: 22px;
+  --input-radius: 0px;
   --select-input-color: #363636;
   --button-background: rgba(0,0,0,0.7);
   --button-border: 1px solid #b2b2b2;
