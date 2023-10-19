@@ -15,10 +15,11 @@ Import theme in vencord: ```https://raw.githubusercontent.com/QuocToan259/Discor
 
 <hr>
 
-## Change the logo discord
+## Change the logo DM discord
 Go to setting vencord's in your discord -> Click ```Open QuickCSS File```
 Paste this:  <br>
 ```
 .tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub:before{
     background-image: url('<link_your_image');
-}```
+}
+```
