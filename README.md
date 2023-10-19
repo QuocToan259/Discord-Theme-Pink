@@ -11,7 +11,7 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 ## How to use?
 Install vencord at [here](https://vencord.dev) <br>
-Import theme in vencord: ```https://raw.githubusercontent.com/QuocToan259/Spotify-Discord/master/Spotify-Discord.theme.css```
+Import theme in vencord: ```https://raw.githubusercontent.com/QuocToan259/Discord-Theme-Pink/master/Spotify-Discord.theme.css```
 
 <hr>
 
