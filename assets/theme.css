@@ -1095,7 +1095,7 @@ body,
 /* CHAT AREA -> MESSAGES -> MENTIONS */
 .wrapper-1ZcZW-.interactive {
     color: #ffffff;
-    background: linear-gradient(-45deg,#0f5ae3bd,#55d321bf) !important;
+    background: #dd3c5b !important;
 }
 .wrapper-1ZcZW-.interactive:hover {
   background-color: rgb(var(--accent-rgb)) !important;
@@ -3952,4 +3952,8 @@ div[role=radiogroup] {
 
 .container-VXcBeg.fixClipping-3GOd_d {
   background-color: #000000;
+}
+
+.button-2gNyE9.buttonColor-1PCuWq, .button-2gNyE9 .buttonColor-1PCuWq{
+  border-radius: 50px;
 }
