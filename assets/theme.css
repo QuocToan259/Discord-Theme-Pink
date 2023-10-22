@@ -58,7 +58,7 @@
   --window-button: #181818;
   --window-button-hover: #535353;
   --window-button-close: #cd1a2b;
-	
+  --primary-color: #e76499;
 }
 
 /*
@@ -3784,7 +3784,7 @@ div[role=radiogroup] {
     color: #fff;
 }
 .colorDefault-2_rLdz.focused-3LIdPu{
-    background-color: #e76499;
+    background-color: var(--primary-color);
     color: var(--white-500);
     border-radius: 7px;
 }
@@ -3806,7 +3806,7 @@ div[role=radiogroup] {
     margin-bottom: 2%;
 }
 .lookFilled-1H2Jvj.colorBrand-2M3O3N {
-   background-color: #e76499;
+   background-color: var(--primary-color);
    border-radius: 50px;
    
 }
@@ -3954,4 +3954,8 @@ div[role=radiogroup] {
 
 .button-2gNyE9.buttonColor-1PCuWq, .button-2gNyE9 .buttonColor-1PCuWq{
   border-radius: 50px;
+}
+
+.active-z80xEj .buttonWrapper-3YFQGJ, .buttonWrapper-3YFQGJ:hover{
+  color: var(--primary-color);
 }
