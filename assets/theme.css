@@ -3682,7 +3682,7 @@ div[role=radiogroup] {
  *
  */
 ::-webkit-scrollbar {
-  width: 4px !important;
+  width: 2px !important;
   background: transparent;
 }
 ::-webkit-scrollbar-track {
