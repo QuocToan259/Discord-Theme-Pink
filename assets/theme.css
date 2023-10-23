@@ -3959,3 +3959,6 @@ div[role=radiogroup] {
 .active-z80xEj .buttonWrapper-3YFQGJ, .buttonWrapper-3YFQGJ:hover{
   color: var(--primary-color);
 }
+.jumpToPresentBar-1cEnH0 {
+  bottom: 24px;
+}
